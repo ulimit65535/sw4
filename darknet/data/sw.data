@@ -1,0 +1,5 @@
+classes= 1
+train = D:/Programs/darknet/build/darknet/x64/data/train.txt
+valid = D:/Programs/darknet/build/darknet/x64/data/val.txt
+names = D:/Programs/darknet/build/darknet/x64/data/sw.names
+backup = D:/Programs/darknet/build/darknet/x64/data/backup/

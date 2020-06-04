@@ -1,0 +1,5 @@
+__pycache__
+runtime/img/*
+!runtime/img/.gitkeep
+yanzheng.lock
+*.weights
