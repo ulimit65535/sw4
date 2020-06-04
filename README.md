@@ -18,12 +18,12 @@
 使用编辑器打开项目etc/settings.py，进行相关配置
 
 1.  corpid、corpsecret、wechat_user为微信企业号发送消息配置，需要自己先申请微信企业号，如不配置，将不会发送任何微信通知。
-2.  darknet_dir需要另行安装darknet，项目地址:https://github.com/AlexeyAB/darknet。配置后，将使用深度学习自动过验证码。  
+2.  darknet_dir需要另行安装darknet，项目地址:https://github.com/AlexeyAB/darknet。 配置后，将使用深度学习自动过验证码。  
 
 双击main.pyw，运行程序
 
 #### darknet安装使用说明
-项目地址:https://github.com/AlexeyAB/darknet。darknet安装步骤网上有很多，请使用GPU版本编译。  
+项目地址:https://github.com/AlexeyAB/darknet。darknet 安装步骤网上有很多，请使用GPU版本编译。  
 安装完成后，将本项目darknet文件夹下的三个子文件夹，复制到darknet安装目录，并修改darknet/data/sw.data文件中配置的地址为实际安装地址。
 
 #### 参与贡献
